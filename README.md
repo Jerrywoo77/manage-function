@@ -1,1 +1,3 @@
 # manage-function
+  function manageIssue(
+            } 
